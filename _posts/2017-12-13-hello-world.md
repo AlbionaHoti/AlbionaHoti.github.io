@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Coder Gals Hackathon"
 date:   2017-12-04 21:15:05 +0000
 image: /assets/images/startup.jpg
 
