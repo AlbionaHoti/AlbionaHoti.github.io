@@ -2,7 +2,7 @@ theme: jekyll-material-theme
 title: Coder Gal
 name: Albiona Hoti
 email: albionahoti95@gmail.com
-description: My name is Albiona Hoti and I am a full-time software developer.
+description: My name is Albiona Hoti and I am a software developer.
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
@@ -11,24 +11,6 @@ project_one: "React Admin Dashboard"
 project_one_description: Admin Dashboard build with ReactJs and React Semantic UI. Which enables jump starting a new project with a prepared layout and React Semantic UI provides access to many useful components.
 project_one_url: https://github.com/AlbionaHoti/react_admin_dashboard
 project_one_icon: location_on
-
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
-
-
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: hotel
-
-
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
-
 
 project_button: Github
 
