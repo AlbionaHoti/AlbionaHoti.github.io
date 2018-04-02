@@ -1,15 +1,16 @@
 theme: jekyll-material-theme
-title: Your awesome title
+title: Coder Gal
 name: Albiona Hoti
 email: albionahoti95@gmail.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: My name is Albiona Hoti and I am a full-time software developer.
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: "React Admin Dashboard"
+project_one_description: Admin Dashboard build with ReactJs and React Semantic UI. Which enables jump starting 
+a new project with a prepared layout and React Semantic UI provides access to many useful components.
+project_one_url: https://github.com/AlbionaHoti/react_admin_dashboard
 project_one_icon: location_on
 
 project_two: Second Project
