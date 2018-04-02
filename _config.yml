@@ -8,8 +8,7 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "React Admin Dashboard"
-project_one_description: Admin Dashboard build with ReactJs and React Semantic UI. Which enables jump starting 
-a new project with a prepared layout and React Semantic UI provides access to many useful components.
+project_one_description: Admin Dashboard build with ReactJs and React Semantic UI. Which enables jump starting a new project with a prepared layout and React Semantic UI provides access to many useful components.
 project_one_url: https://github.com/AlbionaHoti/react_admin_dashboard
 project_one_icon: location_on
 
