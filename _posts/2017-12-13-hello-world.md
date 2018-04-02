@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coder Gals Hackathon"
-date:   2017-08-18 21:15:05 +0000 2017-08-21 21:15:05 +0000
+date:   2017-08-18 2017-08-21 
 image: /assets/images/crew.jpg
 
 ---
